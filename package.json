@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "google-auth-library": "^9.0.0",
-    "googleapis": "^124.0.0",
+    "googleapis": "^132.0.0",
     "sitka": "^1.1.1"
   }
 }
